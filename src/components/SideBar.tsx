@@ -1,3 +1,4 @@
+import React from "react";
 import "../styles/sidebar.scss";
 import { Button } from "./Button";
 
